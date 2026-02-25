@@ -49,7 +49,7 @@ Training and validation loss both decreased consistently, with a small train/val
 The dataset is not included in this repository and is stored separately (Google Drive).
 
 After downloading the dataset, organize it like this (example):
-
+```text
 images/
 ├── train/
 │   ├── angry/
@@ -67,7 +67,7 @@ images/
     ├── neutral/
     ├── sad/
     └── surprise/
-
+```
 ## How to Run
 
 Example:
