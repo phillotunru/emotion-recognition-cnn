@@ -84,6 +84,4 @@ python train_emotion_cnn.py \
 * `train_emotion_cnn.py` — training/validation script for the CNN
 * `README.md` — project documentation
 
-## Notes
 
-This repository focuses on the **CNN-based emotion classification** portion of the project.
